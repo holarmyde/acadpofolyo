@@ -11,7 +11,9 @@
   "author": "Femi Aremu",
   "license": "ISC",
   "dependencies": {
-    "gh-pages": "^2.1.1",
-    "node-sass": "^4.13.0"
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.0",
+    "sass-embedded": "^1.81.0",
+    "uuid": "^11.0.3"
   }
 }
